@@ -32,11 +32,11 @@ Both approaches include 2 scripts to generate the correction files:
 
 The names of the input files need to be changed in the scripts.
 
-# Use of AI tools
+## Use of AI tools
 
 This project was developed with the help of Claude Code 2.1.310.
 
-#Third-party code
+## Third-party code
 
 This repository contains third-party code from STMicroelectronics and Arm. It is not covered by the MIT license in `LICENSE` and keeps its own license:
 

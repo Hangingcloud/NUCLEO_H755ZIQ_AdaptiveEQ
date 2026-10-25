@@ -1,0 +1,20 @@
+# build output
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.list
+*.map
+*.bin
+*.hex
+
+# IDE and tool state
+.metadata/
+.settings/language.settings.xml
+*.launch
+__pycache__/
+*.pyc
+.claude/
